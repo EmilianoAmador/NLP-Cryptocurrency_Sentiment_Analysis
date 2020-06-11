@@ -15,7 +15,7 @@ This activity compares two crypto-giants, Bitcoin and Ethereum, across various n
 ![](../Images/eth_stat.png)
 
 ### Summary
-![](../Images/Q_A.jpg)
+![](../Images/Q_A.png)
 
 ## Frequency Analysis
 
@@ -25,7 +25,7 @@ This activity compares two crypto-giants, Bitcoin and Ethereum, across various n
 
 ### Ethereum
 ![](../Images/eth_bigram.jpg)
-![](../Images/eth_top_10.jpg)
+![](../Images/eth_top_10.png)
 
 ## WordCloud
 ![](../Images/btc_wordcloud.jpg)
