@@ -28,10 +28,10 @@ This activity compares two crypto-giants, Bitcoin and Ethereum, across various n
 ![](../Images/eth_top_10.png)
 
 ## WordCloud
-![](../Images/btc_wordcloud.jpg)
+![](../Images/btc_wordcloud.png)
 
-![](../Images/eth_wordcloud.jpg)
+![](../Images/eth_wordcloud.png)
 
 ## Name Entity Recognition
-![](../Images/btc_ner.jpg)
-![](../Images/eth_ner.jpg)
+![](../Images/btc_ner.png)
+![](../Images/eth_ner.png)
