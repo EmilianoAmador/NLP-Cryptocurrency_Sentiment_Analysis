@@ -14,7 +14,7 @@ This activity compares two crypto-giants, Bitcoin and Ethereum, across various n
 ![](../Images/eth_sent.png)
 ![](../Images/eth_stat.png)
 
-### Summary
+### Sentiment Analysis Summary
 ![](../Images/Q_A.png)
 
 ## Frequency Analysis
