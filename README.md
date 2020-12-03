@@ -8,10 +8,12 @@ This file compares two crypto-giants, Bitcoin and Ethereum, across various natur
 
 ### Bitcoin Sentiment Analysis
 ![](Images/btc_sent.png)
+<br />
 ![](Images/btc_stat.png)
 
 ### Ethereum Sentiment Analysis
 ![](Images/eth_sent.png)
+<br />
 ![](Images/eth_stat.png)
 
 ### Sentiment Analysis Summary
@@ -21,17 +23,20 @@ This file compares two crypto-giants, Bitcoin and Ethereum, across various natur
 
 ### Bitcoin 
 ![](Images/btc_bigram.jpg)
+<br />
 ![](Images/btc_top_10.jpg)
 
 ### Ethereum
 ![](Images/eth_bigram.jpg)
+<br />
 ![](Images/eth_top_10.png)
 
 ## WordCloud
 ![](Images/btc_wordcloud.png)
-
+<br />
 ![](Images/eth_wordcloud.png)
 
 ## Name Entity Recognition
 ![](Images/btc_ner.png)
+<br />
 ![](Images/eth_ner.png)
